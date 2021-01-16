@@ -1,1 +1,1 @@
-Final Project of MIE 1624: Introduction to Data Science and Analytics
+### Final project of MIE 1624: COVID19 Forecasting and Analysis in Ontario
